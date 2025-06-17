@@ -17,7 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synamalhan&show_icons=true&locale=en&layout=compact" alt="synamalhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synamalhan&show_icons=true&locale=en" alt="synamalhan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synamalhan&" alt="synamalhan" /></p>
 
